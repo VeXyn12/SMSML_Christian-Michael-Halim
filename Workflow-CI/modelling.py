@@ -7,8 +7,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
 # Konfigurasi DagsHub untuk CI
-repo_owner = "ChristianMichael" 
-repo_name = "Car-Price-Prediction"
+repo_owner = "VeXyn12" 
+repo_name = "Eksperimen_SML_Christian-Michael-Halim"
 
 # Mengambil token dari environment variable GitHub Actions
 token = os.getenv("DAGSHUB_TOKEN")
